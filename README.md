@@ -1,0 +1,1 @@
+This repository is just to keep track of the current go practice Im doing.
